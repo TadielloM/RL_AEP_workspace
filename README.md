@@ -1,5 +1,6 @@
 # RL_AEP_ws
 The main project repo for RL_AEP
+Pay attention the folders inside src are added as git submodule.
 
 To use it: 
 

@@ -1,6 +1,6 @@
-[submodule "src/rl_aep"]
-	path = src/rl_aep
-	url = git@github.com:TadielloM/RL_AEP.git
 [submodule "src/simulation"]
 	path = src/simulation
 	url = git@github.com:TadielloM/simple_uav_gazebo.git
+[submodule "src/rl_aep"]
+	path = src/rl_aep
+	url = git@github.com:TadielloM/rl_aep.git

@@ -1,5 +1,5 @@
-[submodule "src/RL_AEP"]
-	path = src/RL_AEP
+[submodule "src/rl_aep"]
+	path = src/rl_aep
 	url = git@github.com:TadielloM/RL_AEP.git
 [submodule "src/simulation"]
 	path = src/simulation

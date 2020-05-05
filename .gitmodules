@@ -4,3 +4,12 @@
 [submodule "src/rl_aep"]
 	path = src/rl_aep
 	url = git@github.com:TadielloM/rl_aep.git
+[submodule "src/octomap_mapping"]
+	path = src/octomap_mapping
+	url = https://github.com/OctoMap/octomap_mapping.git
+[submodule "src/plugins/velodyne_simulator"]
+	path = src/plugins/velodyne_simulator
+	url = https://bitbucket.org/DataspeedInc/velodyne_simulator.git
+[submodule "src/plugins/servo_ax12a"]
+	path = src/plugins/servo_ax12a
+	url = git@github.com:Moes96/servo_pkg.git

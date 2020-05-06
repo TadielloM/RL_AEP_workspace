@@ -9,3 +9,6 @@ To use it:
 3 - ```catkin build```
 4 - add the following line to your .bashrc file 
 ```source ~/RL_AEP_ws/devel/setup.bash```
+
+
+```sudo apt install ros-melodic-octomap*```
